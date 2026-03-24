@@ -105,4 +105,4 @@ p <- ggplot() +
     legend.position = "none"
   )
 
-ggsave("plots/rg_plot.png", plot = p, width = 6, height = 4, dpi = 300)
+ggsave("plots/rg_example_plot.png", plot = p, width = 6, height = 4, dpi = 300)
