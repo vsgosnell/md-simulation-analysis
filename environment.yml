@@ -1,0 +1,6 @@
+name: md-analysis
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-tidyverse
