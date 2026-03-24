@@ -42,4 +42,4 @@ p <- ggplot(hb_data, aes(x = Time_ns, y = HBonds)) +
     legend.position = "none"
   )
 
-ggsave("plots/hbond_plot.png", plot = p, width = 6, height = 4, dpi = 300)
+ggsave("plots/hbond_example_plot.png", plot = p, width = 6, height = 4, dpi = 300)
