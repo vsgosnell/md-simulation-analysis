@@ -55,4 +55,4 @@ p <- ggplot(rmsd_data, aes(x = Time_ns, y = RMSD_Ang)) +
   )
 
 # Save plot
-ggsave("plots/rmsd_plot.png", plot = p, width = 6, height = 4, dpi = 300)
+ggsave("plots/rmsd_example_plot.png", plot = p, width = 6, height = 4, dpi = 300)
