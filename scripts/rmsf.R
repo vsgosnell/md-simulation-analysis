@@ -67,4 +67,4 @@ p2 <- ggplot(receptor_data, aes(x = Residue, y = RMSF_A)) +
 p <- p1 / p2
 
 # Save
-ggsave("plots/rmsf_plot.png", plot = p, width = 6, height = 8, dpi = 300)
+ggsave("plots/rmsf_example_plot.png", plot = p, width = 6, height = 8, dpi = 300)
