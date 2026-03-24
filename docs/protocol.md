@@ -6,13 +6,13 @@
 ## Simulation Stages
 1. Energy minimization (performed using GROMACS)
 2. Equilibration (NVT and NPT ensembles, performed using GROMACS)
-3. Production MD simulations (100ns) (performed using GROMACS)
+3. Production MD simulations (100 ns) (performed using GROMACS)
 
 ## Analyses Performed
 - Root mean square deviation (RMSD)
 - Root mean square fluctuation (RMSF)
 - Radius of gyration (Rg)
-- Hydrogen bond analysis
+- Intramolecular Hydrogen bond analysis
 
 ## Visualization
 - MD analysis plots were generated in R using ggplot2
