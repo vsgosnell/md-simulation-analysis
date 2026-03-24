@@ -27,4 +27,4 @@ Full MD simulation datasets (e.g., trajectory files) are not included due to fil
 
 A representative subset of processed data is provided in the `data/` directory to demonstrate the analysis workflow. The scripts are written to support multiple simulation runs and complexes.
 
-All figures shown in the `plots/` directory were generated using the full datasets.
+Figures shown in the `plots/` directory were generated using either the example or full datasets.
