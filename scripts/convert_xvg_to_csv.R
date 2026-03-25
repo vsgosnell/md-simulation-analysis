@@ -47,7 +47,7 @@ convert_all_xvg_in_folder <- function(input_dir, output_dir = input_dir) {
 # example usage:
 
 # Convert one file
-convert_xvg_to_csv("rmsd.xvg", "rmsd.csv")
+convert_xvg_to_csv("data/rmsd.xvg", "data/rmsd.csv")
 
 # Convert all .xvg files in a folder
 convert_all_xvg_in_folder("path/to/your/xvg/files")
