@@ -25,6 +25,6 @@ This repository contains scripts, example data, and figures for analyzing molecu
 
 Full MD simulation datasets (e.g., trajectory files) are not included due to file size and ongoing research considerations.
 
-A representative subset of processed data is provided in the `data/` directory to demonstrate the analysis workflow. The scripts are written to support multiple simulation runs and complexes.
+A representative subset of processed data is provided in the `data/` directory to demonstrate the analysis workflow. The scripts can be modified to support multiple simulation runs and complexes.
 
 Figures shown in the `plots/` directory were generated using either the example or full datasets.
